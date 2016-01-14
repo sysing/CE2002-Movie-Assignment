@@ -1,0 +1,7 @@
+Student before 6pm:7.0
+Student after 6pm:8.0
+Senior Citizen:5.5
+Adults:9.0
+Weekend:10.0
+Platinum Suites:28.0
+Public Holiday:13.0

@@ -1,0 +1,17 @@
+Octopussy|BZ Jurong Point|2|null|21:30|
+Octopussy|BZ Marina Square|3|null|15:30|
+Octopussy|BZ Suntec City|1|null|09:30|
+Spectre|BZ Jurong Point|3|null|08:30|
+Spectre|BZ Marina Square|2|null|23:30|
+Spectre|BZ Suntec City|1|null|17:30|
+Spectre|BZ Jurong Point|2|null|08:30|
+Finding Dory|BZ Jurong Point|3|null|08:00|
+Finding Dory|BZ Suntec City|2|null|10:00|
+The Amazing Spiderman 3|BZ Suntec City|3|null|18:30|
+The Amazing Spiderman 3|BZ Suntec City|3|null|15:30|
+The Amazing Spiderman 3|BZ Jurong Point|3|null|15:30|
+The Amazing Spiderman 3|BZ Marina Square|2|null|23:30|
+The Blitzkrieg Boys|BZ Jurong Point|2|null|21:40|
+The Blitzkrieg Boys|BZ Marina Square|3|null|23:30|
+The Blitzkrieg Boys|BZ Suntec City|1|null|09:30|
+The Blitzkrieg Boys|BZ Jurong Point|1|null|18:30|

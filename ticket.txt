@@ -1,0 +1,9 @@
+2201510121600|3D|Platinum|A6|14-11-2015|21:40|BZ Jurong Point|The Blitzkrieg Boys|11.0|2|
+2201510121600|3D|Platinum|A7|14-11-2015|21:40|BZ Jurong Point|The Blitzkrieg Boys|11.0|2|
+2201510121600|3D|Platinum|A8|14-11-2015|21:40|BZ Jurong Point|The Blitzkrieg Boys|11.0|2|
+2201510121600|3D|Platinum|A9|14-11-2015|21:40|BZ Jurong Point|The Blitzkrieg Boys|11.0|2|
+2201510121600|3D|Platinum|A10|14-11-2015|21:40|BZ Jurong Point|The Blitzkrieg Boys|11.0|2|
+2201510121620|3D|Platinum|A6|13-11-2015|21:40|BZ Jurong Point|The Blitzkrieg Boys|9.0|2|
+2201510121620|3D|Platinum|G11|13-11-2015|21:40|BZ Jurong Point|The Blitzkrieg Boys|9.0|2|
+2201510121620|3D|Platinum|H10|13-11-2015|21:40|BZ Jurong Point|The Blitzkrieg Boys|9.5|2|
+2201510121620|3D|Platinum|B14|13-11-2015|21:40|BZ Jurong Point|The Blitzkrieg Boys|9.0|2|
